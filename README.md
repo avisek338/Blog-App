@@ -1,0 +1,1 @@
+<p>db.create_all() is not required if we are using flask migration. when we run flask migration then database will be created with migration files </p>
